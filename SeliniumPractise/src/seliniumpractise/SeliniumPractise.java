@@ -25,7 +25,7 @@ public class SeliniumPractise {
       System.setProperty("webdriver.chrome.driver", "C:/Users/Admin/Desktop/chromedriver-win64/chromedriver.exe");
   driver = new ChromeDriver();
    
-  driver.get("http://localhost:3000/");
+  driver.get("https://6512d34c09cc560eec388063--cute-palmier-e44395.netlify.app/");
     
    System.out.println(driver.getTitle());
      
